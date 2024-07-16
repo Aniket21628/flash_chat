@@ -1,16 +1,7 @@
 # flash_chat
 
-A new Flutter project.
+Flash Chat is a Chatting application created using Flutter.
 
-## Getting Started
+It involves the use of Google FireBase for the BackEnd activities like Authorization and Storage through FirebaseAuth and Cloud FireStore.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It has a very simple UI and currently has only the feature of Single-Contact Chatting.
