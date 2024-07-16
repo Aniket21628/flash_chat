@@ -1,0 +1,24 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Explicitly declare text files to be normalized and converted to native line endings.
+*.c text
+*.cc text
+*.cpp text
+*.h text
+*.m text
+*.swift text
+*.txt text
+*.html text
+*.css text
+*.js text
+
+# Declare binary files to be left untouched.
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.pdf binary
+*.zip binary
